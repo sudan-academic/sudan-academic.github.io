@@ -33,7 +33,7 @@ If you are interested in my research or would like to discuss potential collabor
 <!--[Prof. Yuan Xie](https://scholar.google.com/citations?user=RN1QMPgAAAAJ&hl=zh-CN&oi=ao) and [Prof. Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN&oi=ao). -->
 <!--I am super enthusiastic about exploring and applying computer technologies in Motion Pictures, Art, and Games! I am looking for self-motivated students. If you are highly creative, have strong coding skills, and are interested in joining my group, please email me your CV!-->
 
-我们欢迎博士生、硕士生和对科研感兴趣的本科生！如果你对计算机技术在影视、游戏、艺术领域应用感兴趣，请与我邮件联系（邮件请附上个人简历）
+我是中南大学自动化学院的博士后研究员，在合作导师是阳春华教授。我在兰州大学获得博士学位，导师是金龙教授，并且与香港城市大学王钧教授保持紧密合作。我硕士毕业于美国德克萨斯大学奥斯汀分校软件工程专业。我的研究兴趣包括神经动力学、深度学习和优化算法。
 
 Research Interests: 
 * Image/audio/video/3D generation
