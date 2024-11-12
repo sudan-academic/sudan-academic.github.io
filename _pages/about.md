@@ -35,12 +35,8 @@ If you are interested in my research or would like to discuss potential collabor
 <!--[Prof. Yuan Xie](https://scholar.google.com/citations?user=RN1QMPgAAAAJ&hl=zh-CN&oi=ao) and [Prof. Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN&oi=ao). -->
 <!--I am super enthusiastic about exploring and applying computer technologies in Motion Pictures, Art, and Games! I am looking for self-motivated students. If you are highly creative, have strong coding skills, and are interested in joining my group, please email me your CV!-->
 
-我是中南大学自动化学院的博士后研究员，在合作导师是阳春华教授。我在兰州大学获得博士学位，导师是金龙教授，并且与香港城市大学王钧教授保持紧密合作。我硕士毕业于美国德克萨斯大学奥斯汀分校软件工程专业。我的研究兴趣包括神经动力学、深度学习和优化算法。
+我是中南大学自动化学院的博士后研究员，合作导师是阳春华教授，并且与香港城市大学王钧教授保持紧密合作。我在兰州大学获得计算机科学与技术专业博士学位。我在美国德克萨斯大学奥斯汀分校软件工程专业获得硕士学位。我的研究兴趣包括神经动力学、深度学习和优化算法。
 2018年我创办了甘肃远瞻信息科技有限责任公司，是国家高新技术企业。公司主要从事智慧矿山、智慧园区等软件开发和信息系统集成业务，同时致力于工业大模型研发工作。
-如果您对我的研究或公司业务有兴趣，或希望就合作机会进行交流，欢迎随时联系我。
+如果您对我的研究或公司业务有兴趣，或希望就合作进行交流，欢迎随时联系我。
 
-Research Interests: 
-* Image/audio/video/3D generation
-* Scene understanding, reconstruction, editing
-* Human avatar modeling, animating
 
