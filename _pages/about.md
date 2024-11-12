@@ -29,7 +29,7 @@ academic service: true # includes a list of news items
 
 I am a postdoctoral research fellow at the [School of Automation, Central South University](https://soa.csu.edu.cn/), under the guidance of supervisor [Prof. Chun-Hua Yang](https://scholar.google.com/citations?user=39DpNi0AAAAJ&hl=en). I received my Ph.D. degree from Lanzhou University under the supervision of [Prof. Long Jin](https://scholar.google.com/citations?user=zt5LfSeWy9gC&hl=zh-CN). I also closely collaborate with [Prof. Jun Wang](https://scholar.google.com/citations?user=TBcb-1kAAAAJ&hl=zh-CN&oi=sra). I received my master degree from the [Cockrell School of Engineering, University of Texas at Austin](https://cockrell.utexas.edu). My research interests include neural dynamics, deep learning, optimization algorithms.
 
-In 2018, I founded <span style="color:green;">Gansu Yuanzhan Technology Co., Ltd.</span>(https://www.qcc.com/firm/bb53757698b923e24fead0b749d4d58f.html), focusing on software development, information system integration, and large language models (LLMs).
+In 2018, I founded [Gansu Yuanzhan Technology Co., Ltd.](https://www.qcc.com/firm/bb53757698b923e24fead0b749d4d58f.html), focusing on software development, information system integration, and large language models (LLMs).
 
 Prior to my current research, I worked as a software engineer at Uber Technologies, Inc. in silicon valley, where I gained valuable experience in large-scale software development and system optimization.
 
@@ -38,10 +38,6 @@ If you are interested in my research or would like to discuss potential collabor
 <!--[Prof. Yuan Xie](https://scholar.google.com/citations?user=RN1QMPgAAAAJ&hl=zh-CN&oi=ao) and [Prof. Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN&oi=ao). -->
 <!--I am super enthusiastic about exploring and applying computer technologies in Motion Pictures, Art, and Games! I am looking for self-motivated students. If you are highly creative, have strong coding skills, and are interested in joining my group, please email me your CV!-->
 
-我是中南大学自动化学院的博士后研究员，合作导师是阳春华教授，并且与香港城市大学王钧教授保持紧密合作。我在兰州大学获得计算机科学与技术专业博士学位。我在美国德克萨斯大学奥斯汀分校软件工程专业获得硕士学位。我的研究兴趣包括神经动力学、深度学习和优化算法。
-
-2018年我创办了甘肃远瞻信息科技有限责任公司，是国家高新技术企业。公司主要从事智慧矿山、智慧园区等软件开发和信息系统集成业务，同时致力于工业大模型研发工作。
-
-我曾在美国Uber担任软件工程师，主要从事软件系统后台研发工作。
+我是中南大学自动化学院的博士后研究员，合作导师是阳春华教授，并且与香港城市大学王钧教授保持紧密合作。我在兰州大学获得计算机科学与技术专业博士学位。我在美国德克萨斯大学奥斯汀分校软件工程专业获得硕士学位。我的研究兴趣包括神经动力学、深度学习和优化算法。2018年我创办了<span style="color:green;">甘肃远瞻信息科技有限责任公司</span>，是国家高新技术企业。公司主要从事智慧矿山、智慧园区等软件开发和信息系统集成业务，同时致力于工业大模型研发工作。我曾在美国Uber担任软件工程师，主要从事软件系统后台研发工作。
 
 如果您对我的研究或公司业务有兴趣，或希望就合作进行交流，欢迎随时联系我。
