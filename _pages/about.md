@@ -29,7 +29,7 @@ academic service: true # includes a list of news items
 
 I am a postdoctoral research fellow at the [School of Automation, Central South University](https://soa.csu.edu.cn/), under the guidance of supervisor [Prof. Chun-Hua Yang](https://scholar.google.com/citations?user=39DpNi0AAAAJ&hl=en). I received my Ph.D. degree from Lanzhou University under the supervision of [Prof. Long Jin](https://scholar.google.com/citations?user=zt5LfSeWy9gC&hl=zh-CN). I also closely collaborate with [Prof. Jun Wang](https://scholar.google.com/citations?user=TBcb-1kAAAAJ&hl=zh-CN&oi=sra). I received my master degree from the [Cockrell School of Engineering, University of Texas at Austin](https://cockrell.utexas.edu). My research interests include neural dynamics, deep learning, optimization algorithms.
 
-In 2018, I founded [Gansu Yuanzhan Technology Co., Ltd.](https://www.qcc.com/firm/bb53757698b923e24fead0b749d4d58f.html), focusing on software development, information system integration, and large language models (LLMs).
+In 2018, I founded <span style="color:green;">Gansu Yuanzhan Technology Co., Ltd.</span>(https://www.qcc.com/firm/bb53757698b923e24fead0b749d4d58f.html), focusing on software development, information system integration, and large language models (LLMs).
 
 Prior to my current research, I worked as a software engineer at Uber Technologies, Inc. in silicon valley, where I gained valuable experience in large-scale software development and system optimization.
 
