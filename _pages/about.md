@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'> </a> No. 149, Yanchang Road, Jing'an District, Shanghai, China.
+subtitle: <a href='#'> </a> No. 932 South Lushan Road, Yuelu District, Changsha, Hunan, China, 410083.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>dan.su@su.edu.cn</p>  
+    <p>dan.su@csu.edu.cn</p>  
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
@@ -26,7 +26,7 @@ academic service: true # includes a list of news items
 
 <!--I am currently an Assistant Prof. of [Shanghai Film Academy](https://sfa.shu.edu.cn/) at Shanghai University. At the same time, I am a Post-doc at the [Fudan Vision and Learning Lab](https://fvl.fudan.edu.cn/) of Fudan University, working closely with co-supervisor [Prof. Yu-Gang Jiang](https://baike.baidu.com/item/%E5%A7%9C%E8%82%B2%E5%88%9A/22131913). -->
 
-I am a postdoctoral research fellow at the School of Automation (https://soa.csu.edu.cn/), Central South University, under the guidance of supervisor [Prof. Chun-Hua Yang](https://scholar.google.com/citations?user=39DpNi0AAAAJ&hl=en). I received my Ph.D. degree from Lanzhou University under the supervision of [Prof. Long Jin](https://scholar.google.com/citations?user=zt5LfSeWy9gC&hl=zh-CN). I also closely collaborate with [Prof. Jun Wang](https://scholar.google.com/citations?user=TBcb-1kAAAAJ&hl=zh-CN&oi=sra). I received my master degree from the Cockrell School of Engineering of University of Texas at Austin(https://cockrell.utexas.edu/). My research interests include neural dynamics, deep learning, optimization algorithms.
+I am a postdoctoral research fellow at [the School of Automation](https://soa.csu.edu.cn/), Central South University, under the guidance of supervisor [Prof. Chun-Hua Yang](https://scholar.google.com/citations?user=39DpNi0AAAAJ&hl=en). I received my Ph.D. degree from Lanzhou University under the supervision of [Prof. Long Jin](https://scholar.google.com/citations?user=zt5LfSeWy9gC&hl=zh-CN). I also closely collaborate with [Prof. Jun Wang](https://scholar.google.com/citations?user=TBcb-1kAAAAJ&hl=zh-CN&oi=sra). I received my master degree from the [Cockrell School of Engineering of University of Texas at Austin](https://cockrell.utexas.edu). My research interests include neural dynamics, deep learning, optimization algorithms.
 
 <!--I currently hold a position as a Lecturer (Assistant Professor) at the [Shanghai Film Academy](https://sfa.shu.edu.cn/)  of Shanghai University, while simultaneously fulfilling the responsibilities of a Post-doc at the [FVL Lab](https://fvl.fudan.edu.cn/) of Fudan University, under the guidance of supervisor [Prof. Yu-Gang Jiang](https://baike.baidu.com/item/%E5%A7%9C%E8%82%B2%E5%88%9A/22131913). I received my Ph.D. degree from East China Normal University under the supervision of [Prof. Lizhuang Ma](https://baike.baidu.com/item/%E9%A9%AC%E5%88%A9%E5%BA%84?fromModule=lemma_search-box). I also closely collaborate with [Prof. Yanwei Fu](https://scholar.google.co.uk/citations?user=Vg54TcsAAAAJ&hl=en) and [Prof. Guangnan Ye](https://scholar.google.com/citations?hl=zh-CN&user=xdcv7wQAAAAJ&view_op=list_works&sortby=pubdate). My research interests include computer vision, computer graphics, and human-machine interaction. -->
 <!--[Prof. Yuan Xie](https://scholar.google.com/citations?user=RN1QMPgAAAAJ&hl=zh-CN&oi=ao) and [Prof. Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN&oi=ao). -->
