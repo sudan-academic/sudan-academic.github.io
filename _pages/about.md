@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'> </a> No. 932 South Lushan Road, Yuelu District, Changsha, Hunan, China, 410083.
+subtitle: <a href='#'> </a> No. 932, South Lushan Road, Yuelu District, Changsha, Hunan, China, 410083.
 
 profile:
   align: right
@@ -38,5 +38,3 @@ If you are interested in my research or would like to discuss potential collabor
 我是中南大学自动化学院的博士后研究员，合作导师是阳春华教授，并且与香港城市大学王钧教授保持紧密合作。我在兰州大学获得计算机科学与技术专业博士学位。我在美国德克萨斯大学奥斯汀分校软件工程专业获得硕士学位。我的研究兴趣包括神经动力学、深度学习和优化算法。
 2018年我创办了甘肃远瞻信息科技有限责任公司，是国家高新技术企业。公司主要从事智慧矿山、智慧园区等软件开发和信息系统集成业务，同时致力于工业大模型研发工作。
 如果您对我的研究或公司业务有兴趣，或希望就合作进行交流，欢迎随时联系我。
-
-
