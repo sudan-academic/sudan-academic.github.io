@@ -38,6 +38,6 @@ If you are interested in my research or potential collaboration opportunities, p
 <!--[Prof. Yuan Xie](https://scholar.google.com/citations?user=RN1QMPgAAAAJ&hl=zh-CN&oi=ao) and [Prof. Xiaoguang Han](https://scholar.google.com/citations?user=z-rqsR4AAAAJ&hl=zh-CN&oi=ao). -->
 <!--I am super enthusiastic about exploring and applying computer technologies in Motion Pictures, Art, and Games! I am looking for self-motivated students. If you are highly creative, have strong coding skills, and are interested in joining my group, please email me your CV!-->
 
-我是中南大学自动化学院的博士后研究员，合作导师是国家杰青阳春华教授，并且与香港城市大学欧洲科学院院士王钧教授保持紧密合作。博士学位获得于兰州大学，专业为计算机科学与技术，导师为国家青年拔尖人才金龙教授。硕士毕业于美国德克萨斯大学奥斯汀分校软件工程专业。目前，我的研究方向包括神经动力学、深度学习和优化算法。2018年创办了<span style="color:blue;">甘肃远瞻信息科技有限责任公司</span>，是国家高新技术企业。公司主要从事智慧矿山、智慧园区等软件开发和信息系统集成业务，同时致力于工业大模型研发工作。我曾在美国Uber担任软件工程师，主要从事软件系统后台研发工作。
+我是中南大学自动化学院的博士后研究员，合作导师是国家杰青阳春华教授，并且与香港城市大学欧洲科学院院士王钧教授保持紧密合作。博士学位获得于兰州大学，专业为计算机科学与技术，导师为国家青年拔尖人才金龙教授。硕士毕业于美国德克萨斯大学奥斯汀分校软件工程专业。目前，我的研究方向包括神经动力学、深度学习和优化算法。2018年创办了<span style="color:#00EEEE;">甘肃远瞻信息科技有限责任公司</span>，是国家高新技术企业。公司主要从事智慧矿山、智慧园区等软件开发和信息系统集成业务，同时致力于工业大模型研发工作。我曾在美国Uber担任软件工程师，主要从事软件系统后台研发工作。
 
 如果您对我的研究或公司业务感兴趣，或希望探讨合作机会，欢迎随时联系我。
