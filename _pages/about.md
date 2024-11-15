@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p style="color:blue;">dan.su@csu.edu.cn</p>
-    <p style="color:blue;">Tel:+86-18693107839</p>  
+    <p style="color:#00EEEE;">dan.su@csu.edu.cn</p>
+    <p style="color:#00EEEE;">Tel:+86-18693107839</p>  
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
